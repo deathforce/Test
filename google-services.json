@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869342988192",
+    "project_id": "ezdine-api",
+    "storage_bucket": "ezdine-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869342988192:android:549d5560e6fb01f41f46c5",
+        "android_client_info": {
+          "package_name": "com.company.ezdine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869342988192-1tsldv5b1kne4hp8h9u188thq96mecmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6zZnlzekjM12QXQnfxIIPVj_g4rY7uQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869342988192-1tsldv5b1kne4hp8h9u188thq96mecmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
